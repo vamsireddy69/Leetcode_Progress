@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0002-add-two-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
