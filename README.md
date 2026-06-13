@@ -10,6 +10,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,10 +50,12 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3838-weighted-word-mapping](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
