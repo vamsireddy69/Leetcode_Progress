@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
