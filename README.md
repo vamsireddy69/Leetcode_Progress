@@ -19,6 +19,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
