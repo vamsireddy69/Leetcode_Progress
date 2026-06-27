@@ -11,6 +11,7 @@
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -58,6 +59,7 @@
 | [0001-two-sum](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -140,4 +142,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
