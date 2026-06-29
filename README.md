@@ -9,6 +9,7 @@
 | [1732-find-the-highest-altitude](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -81,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0008-string-to-integer-atoi) |
 | [1189-maximum-number-of-balloons](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3838-weighted-word-mapping) |
