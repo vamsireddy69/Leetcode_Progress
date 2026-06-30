@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -82,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0008-string-to-integer-atoi) |
 | [1189-maximum-number-of-balloons](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3614-process-string-with-special-operations-ii) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
