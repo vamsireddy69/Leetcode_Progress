@@ -121,6 +121,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
@@ -160,10 +161,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
