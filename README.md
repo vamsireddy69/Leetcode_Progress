@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
 ## Counting Sort
