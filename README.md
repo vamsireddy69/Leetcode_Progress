@@ -55,6 +55,7 @@
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
