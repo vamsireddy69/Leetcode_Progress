@@ -16,6 +16,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -78,6 +80,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -134,12 +138,14 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -151,6 +157,7 @@
 | [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -176,6 +183,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
