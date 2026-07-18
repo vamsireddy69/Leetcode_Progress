@@ -12,6 +12,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -61,6 +62,7 @@
 | [0002-add-two-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -222,6 +224,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
