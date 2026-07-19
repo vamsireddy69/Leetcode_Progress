@@ -107,6 +107,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0008-string-to-integer-atoi) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -122,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -165,6 +167,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
