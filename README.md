@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [1260-shift-2d-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1732-find-the-highest-altitude) |
@@ -97,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3614-process-string-with-special-operations-ii) |
@@ -209,6 +211,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
