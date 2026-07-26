@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,6 +187,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vamsireddy69/Leetcode_Progress/tree/master/1840-maximum-building-height) |
